@@ -1,5 +1,5 @@
 h1 {
-    position: relative;
+    width: fit-content;
     color: #afe3ff;
     font-size: 48px;
 }
@@ -28,3 +28,20 @@ body {
 .logo {
     float: left;
 }
+
+#navbar {
+
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#navbar li {
+    display: inline;
+    padding: 10px;
+}
+
